@@ -1,0 +1,26 @@
+_repo: The-Wild-Elephant-and-the-Method-of-Capturing-and-Taming-it-in-Ceylon_56488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tennent, James Emerson, Sir
+    aliases:
+    - Emerson, James
+    - Tennent, J. Emerson (James Emerson), Sir
+    birthdate: 1804
+    deathdate: 1869
+    gutenberg_agent_id: '5125'
+    url: http://www.gutenberg.org/2009/agents/5125
+    wikipedia: http://en.wikipedia.org/wiki/James_Emerson_Tennent
+description: ''
+gutenberg_issued: '2018-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Wild Elephant and the Method of Capturing and Taming it in Ceylon
+url: http://www.gutenberg.org/ebooks/56488
